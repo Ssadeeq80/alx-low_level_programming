@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * is_positive - Check if a number is greater than 0
- * Return:0 if the number is positive. 0 otherwise
+ *main-program entry points.
+ *Return: 0 -no error
  */
 int main(void)
 {
