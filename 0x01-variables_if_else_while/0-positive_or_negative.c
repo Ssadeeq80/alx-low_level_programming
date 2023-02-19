@@ -4,7 +4,7 @@
 
 /**
  *main-program entry points.
- *Return: 0 -no error
+ *Return: 0 -no error for that!!
  */
 int main(void)
 {
