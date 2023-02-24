@@ -6,7 +6,6 @@
 void print_most_numbers(void)
 {
 	int i = '/';
-	void _putchar();
 
 	while (i++ < '9')
 		if (i != '2' && i != '4')

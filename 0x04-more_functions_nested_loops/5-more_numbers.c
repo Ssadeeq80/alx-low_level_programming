@@ -6,7 +6,6 @@
 void more_numbers(void)
 {
 	int  i = 0, j;
-	void _putchar();
 
 	while (i++ < 10)
 	{

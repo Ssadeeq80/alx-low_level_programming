@@ -6,7 +6,6 @@
 void print_numbers(void)
 {
 	int i = '/';
-	void _putchar();
 
 	while (i++ < '9')
 
